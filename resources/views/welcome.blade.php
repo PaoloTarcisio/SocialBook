@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('main-content')
-    <h3>Homepage</h3>
+    <h3>Benvenuto in SocialBook</h3>
 @endsection
